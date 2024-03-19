@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/calor">
+        <file>qcalor.png</file>
+    </qresource>
+</RCC>
